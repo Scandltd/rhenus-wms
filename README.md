@@ -9,20 +9,22 @@ The data files are transferred by means of FTP or SFTP.
 ## Message types
 
 The following types for communication Customer -> Rhenus are possible:
-Message type | Comment
---- | ---
-AR | Article master data
-AVIS | Advice
-BEST | Purchase order
-AUF | Orders
+
+| Message type | Comment |
+| --- | --- |
+| AR | Article master data |
+| AVIS | Advice |
+| BEST | Purchase order |
+| AUF | Orders |
 
 The following types for communication Rhenus -> Customer are possible:
-Message type | Comment
---- | ---
-RAVIS | Advice confirmation
-RAUF | Orders confirmation
-BEW | Confirmation on general movements as well as goods receipt entries for purchase orders
-BESTAND | Stock comparison
+
+| Message type | Comment |
+| --- | --- |
+| RAVIS | Advice confirmation |
+| RAUF | Orders confirmation |
+| BEW | Confirmation on general movements as well as goods receipt entries for purchase orders |
+| BESTAND | Stock comparison |
 
 ## Usage Instructions
 
