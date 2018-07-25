@@ -5,7 +5,7 @@
 	"time": "2018-07-24",
 	"keywords": ["PHP", "Rhenus", "logistics", "WMS", "lib", "ftp"],
 	"type": "library",
-	"license": "GPLv2",
+	"license": "GPL-2.0-only",
 	"authors": [
 		{
 			"name": "Alex Burets",
